@@ -11,7 +11,7 @@
   --card: oklch(0.99 0.01 142); /* Very light green card background */
   --card-foreground: oklch(0.2 0 0); /* Dark card text */
   --popover: oklch(1 0 0); /* White popove
-  --popover-foreground: oklch(0.2 0 0); /* Dark popover text */
+  -popover-foreground: oklch(0.2 0 0); /* Dark popover text */
   --primary: oklch(0.42 0.18 142); /* #2E7D32 equivalent - main green */
   --primary-foreground: oklch(1 0 0); /* White text on primary */
   --secondary: oklch(0.95 0.02 142); /* Very light green secondary */
